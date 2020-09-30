@@ -1,2 +1,2 @@
 # myGitTest
-I create myGitTest just for haow to learn and use it. 
+I create myGitTest just for how to learn and use git. 
